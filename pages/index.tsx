@@ -11,7 +11,9 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <NavBar/>
-      <div>Body</div>
+      <div >
+        <img className="min-w-full" src="https://i.imgur.com/Gi5mpzO.jpg"></img>
+      </div>
       <Footer/>
     </div>
   )
